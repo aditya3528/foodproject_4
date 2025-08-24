@@ -122,4 +122,4 @@ Just raise an issue, and we will discuss it.
 
 ## Feedback
 
-If you have any feedback, please reach out to me [here](https://linkedin.com/in/adityapratapsingh)
+If you have any feedback, please reach out to me [here](https://www.linkedin.com/in/aditya-pratap-singh-61a157260)
