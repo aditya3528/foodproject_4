@@ -2,7 +2,7 @@ import foodModel from "../models/foodModel.js";
 import userModel from "../models/userModel.js";
 import fs from "fs";
 
-// add food items
+//add food items
 
 const addFood = async (req, res) => {
   let image_filename = `${req.file.filename}`;
